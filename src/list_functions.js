@@ -1,5 +1,4 @@
- 
- exports.add = (inputtext, taskarr) => {
+exports.add = (inputtext, taskarr) => {
   const len = taskarr.length;
   taskarr.push({
     description: inputtext,
@@ -8,7 +7,7 @@
   });
 };
 
- exports.edit = (editinput, taskarr, id) => {
+exports.edit = (editinput, taskarr, id) => {
   taskarr[id].description = editinput;
 };
 
@@ -18,11 +17,10 @@ exports.erase = (taskarr, id) => {
     element.index = index + 1;
   });
 };
- exports.clear = (taskarr) => {
+exports.clear = (taskarr) => {
   taskarr = taskarr.filter((element) => element.completed !== true);
   taskarr.forEach((element, index) => {
     element.index = index + 1;
   });
   return taskarr;
 };
-
