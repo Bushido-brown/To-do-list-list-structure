@@ -44,6 +44,12 @@ clone the repository to your local machine
 - Twitter: [@twitterhandle](https://twitter.com/tuzyorizu)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/Tochukwuorizu)
 
+👤 **Brenda Wihogora**
+
+- GitHub: [@githubhandle](https://github.com/Brenda309)
+- Twitter: [@twitterhandle](https://twitter.com/@BrendaWihogora)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/BrendaWihogora/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
