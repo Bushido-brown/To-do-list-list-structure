@@ -1,5 +1,5 @@
 const {
-  add, edit, erase, clear,
+  add, erase,
 } = require('./list_functions');
 
 const text = 'some test';
