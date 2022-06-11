@@ -14,6 +14,22 @@ describe('add functions method', () => {
     expect(arr.length).toBe(1);
   });
 });
+describe('edit functions method', () => {
+  it('should be able to chnage the description of the array to text passed in', () => {
+    const arr = [{ description: 'first text', completed: false, index: 0 },
+      {
+        description: 'second text',
+        completed: false,
+        index: 1,
+      },
+      { description: 'third text', completed: false, index: 2 }];
+    edit(text, arr, 0);
+    edit(text, arr, 1);
+    edit(text, arr, 2);
+    expect(arr[0].description && arr[1].description && arr[2].description).toBe(text);
+  });
+});
+
 describe('erase functions method', () => {
   it('this should be able to remove a specific task from the array', () => {
     const arr = [{ description: 'first text', completed: false, index: 0 },
