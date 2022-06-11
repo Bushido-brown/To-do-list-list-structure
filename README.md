@@ -42,7 +42,7 @@ To get a local copy and running follow these simple example steps.
 - Stylelint
 - ESLint
 - Add Itemtask (with Jest)
-- Add Itemtask (with Jest)
+git - Add Itemtask (with Jest)
 ### Deployment
 
 ## Authors
