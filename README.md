@@ -31,18 +31,18 @@ To get a local copy and running follow these simple example steps.
 
 ### Install
 - Git (as version control)
+
 - npm install --save-dev jest (To get started with Jest)
 - npm install --save-dev jest-environment-jsdom(To get started with the  JSDOM test environment)
 ### Usage
 
 ### Run tests
 
-- Lighthouse
+- Lighthouse 
 - Webhint
 - Stylelint
 - ESLint
-- Add Itemtask (with Jest)
-git - Add Itemtask (with Jest)
+
 ### Deployment
 
 ## Authors
