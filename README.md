@@ -31,7 +31,7 @@ To get a local copy and running follow these simple example steps.
 
 ### Install
 - Git (as version control)
-- sudo apt install nodejs (To install nodejs)
+
 - npm install --save-dev jest (To get started with Jest)
 - npm install --save-dev jest-environment-jsdom(To get started with the  JSDOM test environment)
 ### Usage
@@ -42,8 +42,7 @@ To get a local copy and running follow these simple example steps.
 - Webhint
 - Stylelint
 - ESLint
-- clear all Item/task (with Jest)
-- edit Item/task (with Jest)
+
 ### Deployment
 
 ## Authors
